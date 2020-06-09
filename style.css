@@ -18,4 +18,7 @@ div.form-group {
 		font-size: 0.5em;
 		padding: 0;
 	}
+	.footer-container {
+		background-image: width 20px height 20px;
+	}
 }
